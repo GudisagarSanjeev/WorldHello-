@@ -2,6 +2,7 @@
 #define ME_H
 
 #include <iostream>
+using namespace std;
 class Me
 {
 public:

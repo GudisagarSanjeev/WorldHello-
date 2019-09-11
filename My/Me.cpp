@@ -1,6 +1,6 @@
 #include "Me.h"
-#include <iostream>
 Me::Me()
 {
+    cout<<"Me constructor"<<endl;
 
 }
