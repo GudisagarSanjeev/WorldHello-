@@ -6,5 +6,4 @@ int main()
 {
     Me me;
     cout << "Hello World!" << endl;
-    return 0;
 }
